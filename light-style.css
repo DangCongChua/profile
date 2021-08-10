@@ -4,9 +4,6 @@ body {
     margin: 0;
 }
 
-html,body{cursor:url("https://i.imgur.com/5v5M8gh.png"), auto;}
-a:hover{cursor:url("https://i.imgur.com/IXULuQ1.png"), auto;}
-
 h2 {
     color: rgb(26, 26, 26);
     font-size: 25px;
@@ -81,7 +78,7 @@ a {
 
 .profile-below .left {
     display: flex;
-    width: 30%;
+    width: 35%;
     margin: 20px 0;
     padding: 0 30px;
     border-right: 1px solid #777777;
@@ -147,7 +144,7 @@ a {
 }
 
 .profile-below .right .link li:nth-child(1) a{
-    background: #1f5eff;
+    background: linear-gradient(10deg,#2b5adf ,#45aaff );
     box-shadow: 0 4px 20px rgb(35 93 211 / 70%);
 }
 
@@ -156,7 +153,7 @@ a {
 }
 
 .profile-below .right .link li:nth-child(2) a{
-    background: linear-gradient(20deg,#e8c72a -20%,#ce2e97 100%);
+    background: linear-gradient(20deg,#ffc050,#ff593f,#cf3a97 ,#7841ca);
     box-shadow: 0 4px 20px rgb(211 67 35 / 70%);
 }
 
