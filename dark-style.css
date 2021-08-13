@@ -8,6 +8,7 @@ html,body{cursor:url("https://i.imgur.com/5v5M8gh.png"), auto;}
 a:hover{cursor:url("https://i.imgur.com/IXULuQ1.png"), auto;}
 
 h2 {
+    background: url("https://lh5.googleusercontent.com/proxy/8pFzttS9q8jwN_vA-_u7dSEDH2WlAZ4SA2YSEgzGWiqmdYhUejwgcv-nKmpx1hlwrL8oTVz1DfK_daTeAt_it_MHRA42jmPHFk-6smvJ5LocCs-5Pw=s0-d") repeat scroll 0% 0% transparent;
     font-size: 25px;
     font-weight: 700;
     margin-bottom: 10px;
@@ -81,7 +82,7 @@ a {
 .profile-below .left {
     color: #e2e2e2;
     display: flex;
-    width: 35%;
+    width: 30%;
     margin: 20px 0;
     padding: 0 30px;
     border-right: 1px solid #777777;
