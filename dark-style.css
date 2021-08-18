@@ -115,6 +115,9 @@ a {
 }
 
 .profile-below .right {
+    display:flex;
+    justify-content:space-between;
+    flex-direction: column;
     color: #e2e2e2;
     margin: 20px 0;
     padding: 0 30px;
